@@ -52,28 +52,28 @@ footer{
 }
 
 .linkAdoptar{
-    background-image: url(/IMG/adoptar.webp);
+    background-image: url(../IMG/adoptar.webp);
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .linkServicio{
-    background-image: url(/IMG/servicios.webp);
+    background-image: url(../IMG/servicios.webp);
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .linkProductos{
-    background-image: url(/IMG/productos.jpg);
+    background-image: url(../IMG/productos.jpg);
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .linkNosotros{
-    background-image: url(/IMG/quienesSomos.jpg);
+    background-image: url(../IMG/quienesSomos.jpg);
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
